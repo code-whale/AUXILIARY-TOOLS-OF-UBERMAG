@@ -12,7 +12,7 @@ on the [Ubermag](https://ubermag.github.io/index.html) project of [Marijan Beg](
 
 ## Tutorials:
 
-- A more comprehensive user-defined drawing method based on ubermag-discretefield function and matplotlib
+- A more comprehensive user-defined drawing method based on [Ubermag-discretefield](https://github.com/ubermag/discretisedfield) function and [matplotlib](https://matplotlib.org)
 
 - Calculation of dissipative tensor D and tensor I in Thiele equation
 
