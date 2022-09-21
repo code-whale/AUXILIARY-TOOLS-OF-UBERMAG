@@ -6,7 +6,7 @@
 
 ## About
 
-AUXILIARY TOOLS OF UBERMAG is an auxiliary class tutorial jointly written by [Jinyu Zhang](https://github.com/code-whale) and [Zhiyu Zhang](https://github.com/ZhiyuZhang001) from Northeast University of China. This code is based on the [Ubermag](https://ubermag.github.io/index.html) project of [Marijan Beg](https://github.com/marijanbeg) and [Martin Lang](https://github.com/lang-m) et al., mainly to achieve more convenient skyrmion dynamics and richer plotting code.
+AUXILIARY TOOLS OF UBERMAG is an auxiliary tutorial jointly written by [Jinyu Zhang](https://github.com/code-whale) and [Zhiyu Zhang](https://github.com/ZhiyuZhang001) from Northeast University of China. This code is based on the [Ubermag](https://ubermag.github.io/index.html) project of [Marijan Beg](https://github.com/marijanbeg) and [Martin Lang](https://github.com/lang-m) et al., mainly to achieve more convenient skyrmion dynamics and richer plotting code.
 
 ## Tutorials:
 
